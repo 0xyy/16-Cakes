@@ -2,5 +2,5 @@
 
 # the page only looks good in full screen. The website is not responsive
 
-## page: https://0xyy.github.io/16Cakes/
+## website: https://0xyy.github.io/16Cakes/
  
